@@ -1,5 +1,9 @@
 # news-image-20261123 — The World in One Day
 
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/c/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/hailaobao2026/news-image-20261123/rank.svg)](https://make.fun/c/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/hailaobao2026/news-image-20261123/reward.svg)](https://make.fun/c/news-image-20261123)
+
 A program that draws Monday 23 November 2026's world news as a one-page
 newspaper front page (1024×1024 PNG), using Pillow only. No network, no
 photographs, no AI images — every pixel is drawn with code.
